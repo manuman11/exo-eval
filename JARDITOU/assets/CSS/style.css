@@ -29,6 +29,12 @@ section{
 article{
     width: 70%;
 }
+table th{
+    border: 3px solid black;
+}
+td{
+    border 3px dashed black;
+}
 aside{
     float: right;
     background-color: grey;
