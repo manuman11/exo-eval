@@ -33,7 +33,7 @@ table th{
     border: 3px solid black;
 }
 td{
-    border 3px dashed black;
+    border: 3px dashed black;
 }
 aside{
     float: right;
